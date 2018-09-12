@@ -1,2 +1,7 @@
-# ML-self-learning
-The repo is for learning part of implementation of general machine learning method
+# Basic Machine Learning Python/Tensorflow
+ 
+## Reinforcement learning
+
+### Policy-Based
+
+Environment: [Gym from OpenAI](https://gym.openai.com/)
